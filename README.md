@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Eu sou a Julia Pinheiro
 
-<!--
-**juliapinheiro42/juliapinheiro42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje eu trabalho com fullstack
+- 🌱 Atualmente estudo na RECODE
+- 📫 Este é meu e-mail juliapinheiro.142@gmail.com
+- 😄 Pronouns:ela/dela 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://github.com/juliapinheiro42">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliapinheiro42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapinheiro42&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+<div>
+
+<img align="right" alt="Rafa-yoda"
+src="https://media.discordapp.net/attachments/758116645624872961/886005303726964787/20210910_184743.gif"></div>
+
+
