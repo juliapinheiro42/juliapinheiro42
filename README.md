@@ -19,7 +19,7 @@
 src="https://media.discordapp.net/attachments/758116645624872961/886005303726964787/20210910_184743.gif"></div>
   
   
-  ![Snake animation](https://github.com/rafaballerini/juliapinheiro42/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/juliapinheiro42/juliapinheiro42/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
