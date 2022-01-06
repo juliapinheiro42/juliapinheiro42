@@ -15,7 +15,7 @@
  
 <div>
 
-<img align="right" alt="Rafa-yoda"
+<img align="center" alt="Rafa-yoda"
 src="https://media.discordapp.net/attachments/758116645624872961/886005303726964787/20210910_184743.gif"></div>
   
   
