@@ -14,7 +14,7 @@
 </div>
  <div style="display: inline-block"><br>
   <img align="center" alt="C sharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" margin-left="10">
-   <img align="center" alt="Dart" margin-left="10"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
+   <img align="center" alt="Dart" margin-left="10"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
     <img align="center" alt="Flutter" margin-left="10" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="Java" margin-left="10" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
