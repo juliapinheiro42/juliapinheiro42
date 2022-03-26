@@ -19,8 +19,8 @@
     <img align="center" alt="Java" margin-left="10" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>
-    ##
-
+    
+##
 
 <div> 
  <a href="https://www.linkedin.com/in/julia-pinheiro-992a59180/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
@@ -32,6 +32,6 @@ src="https://media.discordapp.net/attachments/758116645624872961/886005303726964
   
   ![Snake animation](https://github.com/juliapinheiro42/juliapinheiro42/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
 
 
