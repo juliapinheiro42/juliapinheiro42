@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho com fullstack
-- 🌱 Atualmente estudando Flutter
+- 🌱 Atualmente estudando Kotlin
 - 📫 Este é meu e-mail juliapinheiro.142@gmail.com
 - 😄 Pronouns:ela/dela 
 
