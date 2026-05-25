@@ -39,12 +39,12 @@
   <a href="https://github.com/juliapinheiro42">
     <img 
       height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=juliapinheiro42&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" 
+      src="https://github-readme-stats.vercel.app/api?username=juliapinheiro42&show_icons=true&theme=github_dark&include_all_commits=true" 
       alt="Estatísticas do GitHub da Julia"
     />
     <img 
       height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapinheiro42&layout=compact&langs_count=8&theme=ocean_dark" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapinheiro42&layout=compact&langs_count=8&theme=github_dark" 
       alt="Linguagens mais usadas da Julia"
     />
   </a>
