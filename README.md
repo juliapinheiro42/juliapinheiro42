@@ -36,18 +36,24 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/juliapinheiro42">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=juliapinheiro42&show_icons=true&theme=github_dark&include_all_commits=true" 
-      alt="Estatísticas do GitHub da Julia"
-    />
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapinheiro42&layout=compact&langs_count=8&theme=github_dark" 
-      alt="Linguagens mais usadas da Julia"
-    />
-  </a>
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliapinheiro42&theme=github_dark" 
+    alt="Resumo do perfil GitHub da Julia"
+  />
+
+  <br/>
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliapinheiro42&theme=github_dark" 
+    alt="Estatísticas do GitHub da Julia"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliapinheiro42&theme=github_dark" 
+    alt="Linguagens por repositório"
+  />
+
 </div>
 ---
 
